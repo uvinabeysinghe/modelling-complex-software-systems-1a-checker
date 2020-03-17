@@ -272,7 +272,7 @@ public class Check {
     catch (IOException e) {e.printStackTrace();}
     System.out.println(x);
     }
-    System.out.println("Sucessful");
+    System.out.println("Successful");
     }
 
     public static String checkfor( String pattern, String line ) {
