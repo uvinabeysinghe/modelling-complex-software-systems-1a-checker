@@ -270,7 +270,6 @@ public class Check {
 
     }
     catch (IOException e) {e.printStackTrace();}
-    System.out.println(x);
     }
     System.out.println("Successful");
     }
@@ -288,8 +287,4 @@ public class Check {
            return null;
         }
      }
-
-
-
-
 }
