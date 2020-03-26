@@ -5,7 +5,7 @@
 2. Compile Check.java. `javac Check.java`
 3. Run the Check. `java Check < output.txt`
 
-If "Successful" is printed at the end, it passed the test. If it stops before that, it failed. The last line it printed is the reason for the failiure. 
+If "Successful" is printed at the end, it passed the test. If it stops before that, it failed. The last line it printed is most likely the reason for the failiure. 
 
 
 **** Disclaimer: There are bugs in this code, so don't depend entirely on it.
